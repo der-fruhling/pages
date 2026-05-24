@@ -18,7 +18,7 @@ I've been programming as a hobbyist for quite some time now and took up Rust, Ja
 <details>
 <summary>Some other minor projects</summary>
 
-- [The `tracing-google-cloud` crate.](https://crates.io/crates/tracing-google-cloud)
+- <a href="https://crates.io/crates/tracing-google-cloud">The <code>tracing-google-cloud</code> crate.</a>
 
 </details>
 
