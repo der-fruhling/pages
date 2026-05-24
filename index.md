@@ -15,6 +15,13 @@ I've been programming as a hobbyist for quite some time now and took up Rust, Ja
 - Creator of [Create: Train Perspective] which, though abandoned for now, is still pretty cool!
 - Also made [Golem], a mod to improve [Minecraft]'s [Copper Golem] behavior.
 
+<details>
+<summary>Some other minor projects</summary>
+
+- [The `tracing-google-cloud` crate.](https://crates.io/crates/tracing-google-cloud)
+
+</details>
+
 ### The newest stuff
 {% for post in site.posts %}
 - [{{ post.title }}]({{ post.url }})
