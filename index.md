@@ -2,7 +2,9 @@
 
 Welcome!
 
-I'm der_frühling, and this is the website where I talk about what I do. (usually) I've been programming as a hobbyist for quite some time now and took up Rust, Java, C++, all that fun stuff.
+I'm der_frühling, and this is the website where I talk about what I do. (usually)
+
+I've been programming as a hobbyist for quite some time now and took up Rust, Java, C++, all that fun stuff. Sometimes I find myself unable to escape the temptation to write some C.
 
 [Visit my GitHub page](https://github.com/der-fruhling), or [send me emails i guess](mailto:incoming@derfruhling.net)
 
